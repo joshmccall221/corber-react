@@ -1,0 +1,28 @@
+{
+  "name": "corber-react",
+  "version": "0.0.1",
+  "description": "iOS + PWA with React and corber.io",
+  "bin": "./index.js",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshmccall221/corber-react.git"
+  },
+  "keywords": [
+    "react",
+    "corber",
+    "cordova",
+    "mobile",
+    "iOS",
+    "PWA"
+  ],
+  "author": "Josh McCall <joshmccall221@gmail.com> (http://joshuamccall.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshmccall221/corber-react/issues"
+  },
+  "homepage": "https://github.com/joshmccall221/corber-react#readme"
+}
