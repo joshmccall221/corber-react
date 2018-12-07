@@ -1,6 +1,6 @@
 {
   "name": "corber-react",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "iOS + PWA with React and corber.io",
   "bin": "./index.js",
   "main": "./index.js",
